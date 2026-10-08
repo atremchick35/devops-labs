@@ -1,0 +1,10 @@
+.git
+.github
+.env
+.env.*
+.check
+backups
+docker
+REPORT.md
+**/__pycache__
+**/*.pyc

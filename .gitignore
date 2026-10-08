@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- devops-labs ---
+# Рабочие настройки с секретами
+.env
+!.env.example
+# Временные файлы проверок и бэкапы томов
+.check/
+backups/
